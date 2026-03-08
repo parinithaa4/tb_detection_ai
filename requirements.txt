@@ -1,8 +1,8 @@
 streamlit
-numpy
-matplotlib
 tensorflow-cpu
-pillow
+numpy
 opencv-python-headless
 scikit-learn
 joblib
+pillow
+matplotlib
