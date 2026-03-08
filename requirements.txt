@@ -3,4 +3,6 @@ numpy
 matplotlib
 tensorflow
 pillow
+opencv-python-headless
 scikit-learn
+joblib
